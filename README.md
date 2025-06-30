@@ -34,4 +34,4 @@ Kelvin Ribeiro Silva - 16302879
 
 # Versão final da fonte na protoboard
 
-![Screenshot do App](imagens/board_eagl.png)
+![Screenshot do App](imagens/fonte.png)
