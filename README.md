@@ -8,6 +8,8 @@ Kelvin Ribeiro Silva - 16302879
 
 # Diagrama da Fonte
 
+![Screenshot do App](imagens/diagrama_falstad.png)
+
 https://tinyurl.com/2aceomxt
 
 # Escolha de Componentes
