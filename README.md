@@ -10,7 +10,7 @@ Kelvin Ribeiro Silva - 16302879
 
 ![Screenshot do App](imagens/circuito_falstad.png)
 
-https://tinyurl.com/2aceomxt
+[https://tinyurl.com/2aceomxt](https://tinyurl.com/2agt9gwv)
 
 # Escolha de Componentes
 
