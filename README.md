@@ -8,7 +8,7 @@ Kelvin Ribeiro Silva - 16302879
 
 # Diagrama da Fonte
 
-![Screenshot do App](imagens/diagrama_falstad.png)
+![Screenshot do App](imagens/circuito_falstad.png)
 
 https://tinyurl.com/2aceomxt
 
@@ -28,3 +28,6 @@ https://tinyurl.com/2aceomxt
 |Total|||14,28
 
 # Projeto do Esquemático e do PCB no EAGLE
+![Screenshot do App](imagens/esquematico_eagle.png)
+
+![Screenshot do App](imagens/board_eagle.png)
