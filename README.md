@@ -8,7 +8,7 @@ Kelvin Ribeiro Silva - 16302879
 
 # Diagrama da Fonte
 
-![Screenshot do App](imagens/circuito_falstad.png)
+![Screenshot do App](imagens/diagrama_falstad.png)
 
 [https://tinyurl.com/2aceomxt](https://tinyurl.com/2agt9gwv)
 
@@ -31,3 +31,7 @@ Kelvin Ribeiro Silva - 16302879
 ![Screenshot do App](imagens/esquematico_eagle.png)
 
 ![Screenshot do App](imagens/board_eagle.png)
+
+# Versão final da fonte na protoboard
+
+![Screenshot do App](imagens/board_eagl.png)
