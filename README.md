@@ -35,3 +35,7 @@ Kelvin Ribeiro Silva - 16302879
 # Versão final da fonte na protoboard
 
 ![Screenshot do App](imagens/fonte.png)
+
+# Video do funcionamento da fonte
+
+https://youtu.be/Ro8h4gNKZQ0
